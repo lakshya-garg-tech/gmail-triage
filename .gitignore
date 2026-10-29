@@ -1,0 +1,5 @@
+.env
+credentials.json
+APIs.py
+gmail_auto_read_env/
+__pycache__/
